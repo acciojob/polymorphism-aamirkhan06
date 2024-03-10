@@ -10,7 +10,7 @@ public class Main
         }
         public int product(int x, int y, int z)
         {
-            return x*y*y;
+            return x*y*z;
         }
         public double product(double x, double y)
         {
